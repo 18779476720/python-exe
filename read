@@ -1,0 +1,1 @@
+pyinstaller -F -w -i D:\yan\exe\1.ico D:\yan\exe\chuansong2.py
